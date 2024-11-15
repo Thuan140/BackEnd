@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|e:\\thuan\\l\u1EADp tr\u00ECnh web\\23dh113462_mystore\\23dh113462_mystore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|solutionrelative:23dh113462_mystore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|e:\\thuan\\l\u1EADp tr\u00ECnh web\\23dh113462_mystore\\23dh113462_mystore\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|solutionrelative:23dh113462_mystore\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|e:\\thuan\\l\u1EADp tr\u00ECnh web\\23dh113462_mystore\\23dh113462_mystore\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|solutionrelative:23dh113462_mystore\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|e:\\thuan\\l\u1EADp tr\u00ECnh web\\23dh113462_mystore\\23dh113462_mystore\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|solutionrelative:23dh113462_mystore\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|e:\\thuan\\l\u1EADp tr\u00ECnh web\\23dh113462_mystore\\23dh113462_mystore\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|solutionrelative:23dh113462_mystore\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|e:\\thuan\\l\u1EADp tr\u00ECnh web\\23dh113462_mystore\\23dh113462_mystore\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|solutionrelative:23dh113462_mystore\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|e:\\thuan\\l\u1EADp tr\u00ECnh web\\23dh113462_mystore\\23dh113462_mystore\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|solutionrelative:23dh113462_mystore\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|e:\\thuan\\l\u1EADp tr\u00ECnh web\\23dh113462_mystore\\23dh113462_mystore\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|solutionrelative:23dh113462_mystore\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|e:\\thuan\\l\u1EADp tr\u00ECnh web\\23dh113462_mystore\\23dh113462_mystore\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|solutionrelative:23dh113462_mystore\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|e:\\thuan\\l\u1EADp tr\u00ECnh web\\23dh113462_mystore\\23dh113462_mystore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D102D9BA-7BB5-4F08-A9C5-201726B283FF}|23DH113462_MyStore\\23DH113462_MyStore.csproj|solutionrelative:23dh113462_mystore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 160,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "23DH113462_MyStore\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "23DH113462_MyStore\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:21:29.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "23DH113462_MyStore\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "23DH113462_MyStore\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T09:12:20.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "23DH113462_MyStore\\Models\\Order.cs",
+              "ToolTip": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Models\\Order.cs",
+              "RelativeToolTip": "23DH113462_MyStore\\Models\\Order.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:09:02.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "23DH113462_MyStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "23DH113462_MyStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T09:05:05.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "23DH113462_MyStore\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "23DH113462_MyStore\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAlwHUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:02:38.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "23DH113462_MyStore\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "23DH113462_MyStore\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T09:00:50.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "23DH113462_MyStore\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "23DH113462_MyStore\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T08:52:25.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "23DH113462_MyStore\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ToolTip": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeToolTip": "23DH113462_MyStore\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T08:52:22.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "23DH113462_MyStore\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "23DH113462_MyStore\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:52:01.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "23DH113462_MyStore\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "E:\\Thuan\\L\u1EADp tr\u00ECnh web\\23DH113462_MyStore\\23DH113462_MyStore\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "23DH113462_MyStore\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAGQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T08:51:13.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
